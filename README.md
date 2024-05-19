@@ -1,1 +1,1 @@
-# SoftUni-Courses-JavaBasic
+# SoftUni-Courses-JavaBasics
